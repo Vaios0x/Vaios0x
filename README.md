@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a 🏆 certified PSM™ II Scrum Master, 🚀 Founder, and 💻 Full Stack Developer specializing in 🔗 Blockchain and 🌐 Web3 with over 10 years of experience building digital products, scaling platforms, and leading global teams. 🔬 Passionate about technology, innovation, and agile collaboration, I combine business vision with technical expertise to elevate ideas to the next level.
+I'm a 🏆 certified PSM™ II Scrum Master, 🚀 Founder, and 💻 VibeCode Full Stack Developer specializing in 🔗 Blockchain and 🌐 Web3 with over 10 years of experience building digital products, scaling platforms, and leading global teams. 🔬 Passionate about technology, innovation, and agile collaboration, I combine business vision with technical expertise to elevate ideas to the next level.
 
 A 🌍 global entrepreneur with 10+ years in the tech industry, specializing in innovation within the developing world's event economy. 🧩 My background blends business administration, agile methodologies (certified Scrum Master PSM™ II), and expertise in emerging technologies like blockchain and Web3. 🤝 I began collaborating with crypto exchanges and P2P platforms, building community through meetups, and contributing thought leadership through specialized writing in print and digital magazines (60,000+ monthly readership). 🚀 This led to managing international health tech projects involving nanotechnology and wearables across Mexico, Panama, and Colombia.
 
