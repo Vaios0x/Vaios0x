@@ -54,6 +54,31 @@ Currently leading international teams from 🇲🇽 on projects for global enter
 
 ## 🌟 Featured Projects
 
+### 🧠 [BrainSafes](https://github.com/Vaios0x/BrainSafes)
+🎓 **Decentralized Educational Platform** - Next-generation blockchain-based learning ecosystem combining AI, Web3, and smart contracts optimized for Arbitrum.
+
+**Tech Stack:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-0.8.19-363636?style=flat-square&logo=solidity" />
+  <img src="https://img.shields.io/badge/Arbitrum-Layer%202-28A0F0?style=flat-square&logo=arbitrum" />
+  <img src="https://img.shields.io/badge/Rust-Stylus-orange?style=flat-square&logo=rust" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4.9.3-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardhat-2.17.1-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/IPFS-Distributed%20Storage-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/NFT-ERC721-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Token-ERC20-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chainlink-Oracle-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-5.1.6-blue?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Node.js-16+-green?style=flat-square&logo=node.js" />
+</p>
+
+**Key Features:**
+- 🤖 AI-powered scholarship evaluation and learning path generation
+- 💰 Tokenized economy with EDU tokens and NFT certificates
+- 🎯 Decentralized job marketplace with smart matching
+- 🏛️ Governance system with quadratic voting
+- ⚡ Optimized for Arbitrum L2 with 95%+ test coverage
+
 ### 🔗 [TrueLoad](https://github.com/Vaios0x/TrueLoad)
 🚛 Blockchain + IoT platform for cargo traceability and automated unloading. Utilized by companies such as **Coca-Cola Andina**.
 
