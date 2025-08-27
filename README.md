@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vaios!
+# 👋 Hello, I'm Vai0sx!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F87F7&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Full+Stack+Developer;Agile+Scrum+Master;Tech+Innovator;Web3+Architect" alt="Typing SVG" />
@@ -8,7 +8,8 @@
 
 ## 🚀 About Me
 
-I'm a 🏆 **PSM™ II certified Scrum Master**, 🚀 **Founder**, and 💻 **VibeCode Full Stack Developer** specializing in 🔗 **Blockchain** and 🌐 **Web3** with over 10 years of experience building digital products, scaling platforms, and leading global teams.
+I'm a 🏆 **PSM™ II certified Scrum Master**, 🚀 **Founder**, and 💻 **VibeCode Full Stack Developer** specializing in 🔗 **Blockchain** and 🌐 **Web3** with over 10 years of experience building digital products, scaling platforms, and leading global teams. **Ambassador 
+@CriptoUNAM**
 
 🔬 Passionate about technology, innovation, and agile collaboration, I combine business vision with technical expertise to elevate ideas to the next level.
 
