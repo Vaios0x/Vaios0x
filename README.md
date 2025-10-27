@@ -84,6 +84,7 @@ Currently leading international teams from 🇲🇽 on projects for global enter
   <img src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" />
   <img src="https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white" />
   <img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoreDAO-000000?style=for-the-badge&logo=coredao&logoColor=white" />
 </p>
 
 ---
@@ -125,25 +126,26 @@ Currently leading international teams from 🇲🇽 on projects for global enter
 - 📱 Mobile-first PWA with offline capabilities
 - ⚡ Gas optimization reducing transaction costs by 90%
 
-### 🎫 [TickBase](https://github.com/Vaios0x/TickBase) - *Multi-Chain NFT Ticketing*
-🎟️ **Revolutionary Event Ticketing Platform** - Advanced NFT-based ticketing system supporting 5+ blockchain networks with fraud prevention, secondary market controls, and seamless user experience.
+### 🎫 [TickBase](https://github.com/Vaios0x/TickBase) - *Base Network NFT Ticketing*
+🎟️ **Revolutionary Event Ticketing Platform** - Advanced NFT-based ticketing system built specifically for Base Network with fraud prevention, secondary market controls, and seamless user experience.
 
-**The Story:** Born from the need to eliminate ticket fraud and create transparent secondary markets, TickBase transforms how events are managed by leveraging blockchain technology to ensure authenticity and enable fair resale mechanisms.
+**The Story:** Born from the need to eliminate ticket fraud and create transparent secondary markets, TickBase transforms how events are managed by leveraging Base Network's fast and cost-effective infrastructure to ensure authenticity and enable fair resale mechanisms.
 
 **Tech Stack:**
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-5.3+-007ACC?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Base-Mainnet-0052FF?style=flat-square&logo=base" />
+  <img src="https://img.shields.io/badge/TypeScript-80.3%-007ACC?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=base&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-14+-000000?style=flat-square&logo=next.js" />
   <img src="https://img.shields.io/badge/Prisma-5.0+-2D3748?style=flat-square&logo=prisma" />
   <img src="https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/Hardhat-2.0+-FFF04D?style=flat-square&logo=ethereum" />
+  <img src="https://img.shields.io/badge/Solidity-3.0%-363636?style=flat-square&logo=solidity" />
 </p>
 
 **Key Features:**
-- 🎟️ **Multi-Chain Support**: Deployed on Base, Ethereum, Polygon, and more
+- 🎟️ **Base Network Native**: Optimized for Base's fast and cheap transactions
 - 🛡️ **Fraud Prevention**: NFT-based tickets eliminate counterfeiting
-- 🔄 **Secondary Market**: Built-in resale controls and royalty distribution
+- 🔄 **Secondary Market**: Built-in resale controls and royalty distribution (2.5%)
 - 📱 **Mobile-First**: PWA with offline capabilities
 - ⚡ **Gas Optimization**: Layer 2 deployment reducing costs by 95%
 - 🎯 **Event Management**: Complete suite for organizers and venues
@@ -153,15 +155,16 @@ Currently leading international teams from 🇲🇽 on projects for global enter
 **🔧 Technical Architecture:**
 - **Smart Contracts**: TicketNFT, TicketMarketplace, TicketFactory, TicketValidator
 - **Database**: PostgreSQL with Prisma ORM for event and user management
-- **Frontend**: Next.js 14 with App Router and TypeScript
+- **Frontend**: Next.js 14 with App Router and TypeScript (80.3% of codebase)
 - **Deployment**: Vercel for frontend, Base Network for smart contracts
 - **Security**: OpenZeppelin standards, reentrancy protection, access control
 - **PWA Features**: Offline support, push notifications, background sync
+- **Live Demo**: [tick-base.vercel.app](https://tick-base.vercel.app)
 
-### 🔮 [Oraculo](https://github.com/Vaios0x/Oraculo) - *Solana Oracle Network*
-🔮 **Decentralized Oracle Infrastructure** - Advanced oracle network built on Solana providing real-time data feeds, price oracles, and cross-chain data verification for DeFi protocols.
+### 🔮 [Oraculo](https://oraculoss.vercel.app/) - *Solana Prediction Markets*
+🔮 **Decentralized Prediction Markets Platform** - Advanced prediction marketplace built on Solana providing lightning-fast transactions, decentralized resolution, and global prediction markets.
 
-**The Story:** Addressing the critical need for reliable, fast, and cost-effective oracle services in the Solana ecosystem, Oraculo leverages Solana's high-speed infrastructure to provide sub-second data feeds with minimal latency.
+**The Story:** Born from the need to create truly decentralized prediction markets, Oraculo leverages Solana's high-speed infrastructure to provide sub-second transactions and ultra-low fees for global prediction markets.
 
 **Tech Stack:**
 <p align="left">
@@ -170,16 +173,18 @@ Currently leading international teams from 🇲🇽 on projects for global enter
   <img src="https://img.shields.io/badge/Solana-Mainnet-9945FF?style=flat-square&logo=solana" />
   <img src="https://img.shields.io/badge/TypeScript-5.3+-007ACC?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/React-18+-20232A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Web3.js-4.0-F16822?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
 </p>
 
 **Key Features:**
-- ⚡ **Sub-second Updates**: Real-time data feeds with 400ms average latency
-- 🔗 **Multi-source Aggregation**: Combines data from 15+ sources for accuracy
-- 💰 **Cost-effective**: 99% cheaper than Ethereum-based oracles
-- 🛡️ **Tamper-proof**: Cryptographic verification of all data feeds
-- 🌐 **Cross-chain**: Bridge data between Solana and other networks
-- 📊 **Custom Feeds**: Tailored oracle solutions for specific protocols
+- ⚡ **Lightning Fast**: Transactions <1s on Solana
+- 🔒 **100% Decentralized**: No intermediaries, no censorship
+- 💰 **Ultra-Low Fees**: Less than $0.01 per transaction
+- 🌍 **Global Community**: 50,000+ active users worldwide
+- 📊 **Advanced Analytics**: Real-time metrics and performance tracking
+- 🎯 **High Accuracy**: 94.2% average prediction accuracy
+- 💎 **High Volume**: $2.5M+ total trading volume
+- 🚀 **Live Platform**: [oraculoss.vercel.app](https://oraculoss.vercel.app/)
 
 ### 🏠 [JeonseVault](https://github.com/Vaios0x/JeonseVault)
 🏦 **Housing Deposit Management Platform** - Revolutionary blockchain system democratizing South Korea's $200B housing deposit market through fractional investments and smart contracts.
