@@ -330,5 +330,3 @@ Currently leading international teams from 🇲🇽 on projects for global enter
 [![GitHub followers](https://img.shields.io/github/followers/Vaios0x?label=Follow&style=for-the-badge&color=FF6B35&labelColor=000000)](https://github.com/Vaios0x)
 
 </div>
-
-
